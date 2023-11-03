@@ -3,6 +3,12 @@
     src: url(https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap)
 }
 
+@media only screen and (max-device-width: 480px) {
+    #govno {
+        width: 100%;
+    }
+}
+
 body {
     text-align: center;
     margin-left: auto;
