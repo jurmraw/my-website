@@ -3,8 +3,8 @@
     src: url(https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap)
 }
 
-@media only screen and (max-device-width: 300px) {
-    #govno {
+@media only screen and (max-device-width: 480px) {
+    img {
         width: 80%;
     }
 }
