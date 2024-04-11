@@ -4,8 +4,8 @@
 }
 
 @media only screen and (max-device-width: 480px) {
-    img {
-        width: 80%;
+    iframe {
+        width: 70%;
     }
 }
 
@@ -70,8 +70,6 @@ a {
     }
 }
 
-/* Move the background and make it larger. */
-/* Animation shown when hovering over the text. */
 @keyframes text-animate {
     0% {
         background-size: 100%;
